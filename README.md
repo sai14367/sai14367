@@ -15,7 +15,7 @@
     Portfolio
   </a>
   •
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/venkata-sai-kumar-masanam-56458a27b/)">
+  <a href="https://www.linkedin.com/](https://www.linkedin.com/in/venkata-sai-kumar-masanam-56458a27b/">
     LinkedIn
   </a>
 </p>
